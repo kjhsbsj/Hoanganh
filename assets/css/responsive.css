@@ -19,7 +19,9 @@
         width: 90%;
     }
 }
-
+html, body {
+  cursor: url(https://1.bp.blogspot.com/-qbWo9mPKO2Y/YL9utYdQBdI/AAAAAAAAFs4/mtjGu6u2uGwtJsT4gZG4lbhLV1a5lG6OQCLcBGAsYHQ/s0/mouse-f1.png), auto;
+}
 @media only screen and (max-width:350px) and (min-width:150px) {
     #name,
     #first-name {
